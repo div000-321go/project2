@@ -46,7 +46,7 @@ This project implements an eye-tracking system that allows users to control the 
 ## Controls
 
 - **Move Cursor**: Move your eyes to the right or left.
-- **Click**: Blink or close your eyes briefly to simulate a click.
+
 
 ## Notes
 
